@@ -1,0 +1,5 @@
+PWD C:/Users/dines/Documents/UCL Mathematical Computation Year 2/MATH1402/Project 4/Write up
+INPUT c:/texlive/2017/texmf.cnf
+INPUT c:/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT ./Information.tex
